@@ -1,7 +1,4 @@
 # hello_snake
-*******************
-Hello Snake 09/2019
-*******************
 
 You are a green mamba in the african savannah. Eat the apples and grow. 
 Do not try to knot. This decreases your points. 
